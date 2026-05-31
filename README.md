@@ -22,8 +22,6 @@ The system combines object detection and multi-object tracking to accurately ide
 Dataset Used:
 VisDrone MOT Task 4 Validation Set
 
-Download:
-https://github.com/VisDrone/VisDrone-Dataset
 
 ## Project Structure
 
