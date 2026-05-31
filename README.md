@@ -89,5 +89,6 @@ The system detects and tracks multiple persons across drone video sequences.
 
 Kanika 
 
-B.Tech Computer Science Engineering
+B.Tech Computer Science Engineering-jiit
+
 
